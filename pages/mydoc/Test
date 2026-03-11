@@ -1,8 +1,8 @@
 ---
 title: Test 2026.03.11.Test.md
-sidebar: TTest
+sidebar: mydoc_sidebar
 permalink: test.html
-folder:mydoc
+folder: mydoc
 ---
 #test
 
