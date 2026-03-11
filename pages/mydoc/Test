@@ -1,5 +1,9 @@
 ---
-2026.03.11.Test.md
-Hi there, this is test for my acc.
+title: Test 2026.03.11.Test.md
+sidebar: TTest
+permalink: test.html
+folder:mydoc
 ---
 #test
+
+Hi there, this is test for my acc.
